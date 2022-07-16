@@ -1,4 +1,4 @@
-# Business Web_Applications_Development_Project
+# Business_Web_Applications_Development_Project
 This repository contains a collection of files for the Web Application Development project submitted as part of the requirement for the Web Application Development module at ATU as part of the Higher Diploma in Software Development. The actual project was to be submitted through the college Moodle platform as a zip file. This repository serves as a reference for the project.
 
 The repository contains the following files:
@@ -13,6 +13,7 @@ Requirements
 The website:
 
 •	Allows the user to ‘purchase’ items from the site;
+
 •	Allows the customer to enter their login details and have login details validated (via a login screen) before receiving a summary of the order;
 •	Performs form validation through JavaScript to ensure that text fields are not empty; a valid email address is entered.
 •	Connects to mysql database that contains relevant site information (eg: item information and user information);
