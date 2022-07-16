@@ -15,7 +15,11 @@ The website:
 •	Allows the user to ‘purchase’ items from the site;
 
 •	Allows the customer to enter their login details and have login details validated (via a login screen) before receiving a summary of the order;
-•	Performs form validation through JavaScript to ensure that text fields are not empty; a valid email address is entered.
+
+•	Performs form validation through JavaScript to ensure that text fields are not empty; a valid email address is entered;
+
 •	Connects to mysql database that contains relevant site information (eg: item information and user information);
-•	It is responsive website, that displays on standard devices from large screen monitors, to tablets and phones. I've used the Bootstrap framework (via CDN).
+
+•	It is responsive website, that displays on standard devices from large screen monitors, to tablets and phones. I've used the Bootstrap framework (via CDN);
+
 •	For this project, 'purchase' means that the user is presented with the possibility to choose a product or item, select a quantity, and if the purchased button is clicked, they will be presented with a total cost.
