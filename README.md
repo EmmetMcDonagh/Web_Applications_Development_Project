@@ -11,7 +11,9 @@ The 'business' I chose is a used Mobile Phone store. I've employed a common desi
 
 Requirements
 The website:
+
 •	Allows the user to ‘purchase’ items from the site;
+
 •	Allows the customer to enter their login details and have login details validated (via a login screen) before receiving a summary of the order;
 •	Performs form validation through JavaScript to ensure that text fields are not empty; a valid email address is entered.
 •	Connects to mysql database that contains relevant site information (eg: item information and user information);
